@@ -1,0 +1,17 @@
+class Friends {
+  constructor(source, list, challenges ) {
+    this.source = [ "Facebook", "Instagram", "Twitter"]
+    this.list = friends
+    this.challenges = ["previous challenges", "view current challenges", "scores"]
+
+  }
+
+  fun() {
+
+  }
+
+  fit() {
+
+
+  }
+}
